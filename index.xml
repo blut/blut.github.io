@@ -8,20 +8,9 @@
     <language>en-us</language>
     <managingEditor>blut.hannes@gmail.com (Hannes Blut)</managingEditor>
     <webMaster>blut.hannes@gmail.com (Hannes Blut)</webMaster>
-    <lastBuildDate>Sat, 28 Mar 2020 21:29:32 +0100</lastBuildDate>
     
 	<atom:link href="https://blut.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://blut.github.io/page/about/</link>
-      <pubDate>Sat, 28 Mar 2020 21:29:32 +0100</pubDate>
-      <author>blut.hannes@gmail.com (Hannes Blut)</author>
-      <guid>https://blut.github.io/page/about/</guid>
-      <description>Hannes Blut is employed as an Infrastructure Consultant at Accenture GmbH in Kronberg, Germany since April, 2017.
- Programming (bash, golang, C, C++/C++11, Python) AWS, Kubernetes  </description>
-    </item>
     
   </channel>
 </rss>
